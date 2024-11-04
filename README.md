@@ -7,7 +7,7 @@ Tại CardGameServer/src/connection/DatabaseConnection.java sửa lại username
 Chạy lệnh trong mysql
 ```sql
 CREATE DATABASE cardgame;
-USE btlltm;
+USE cardgame;
 
 CREATE TABLE users (
     userId INT AUTO_INCREMENT PRIMARY KEY,
