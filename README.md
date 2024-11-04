@@ -1,5 +1,7 @@
 Tại prj ĐoanSoClient thêm mysql-connector.jar và flatlaf.jar, download tại [đây](https://drive.google.com/drive/folders/1-Gx8yP4upc3OsxGSBXBjUopoZxn-hMq8?usp=drive_link)
 
+Tại CardGameServer/src/connection/DatabaseConnection.java sửa lại username và password của MySQL
+
 Chạy lệnh trong mysql
 ```sql
 CREATE DATABASE btlltm DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;
