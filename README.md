@@ -1,4 +1,6 @@
-Tại prj ĐoanSoClient thêm mysql-connector.jar và flatlaf.jar, download tại [đây](https://drive.google.com/drive/folders/1-Gx8yP4upc3OsxGSBXBjUopoZxn-hMq8?usp=drive_link)
+Tại prj CardGameClient thêm mysql-connector.jar và flatlaf.jar, download tại [đây](https://drive.google.com/drive/folders/1-Gx8yP4upc3OsxGSBXBjUopoZxn-hMq8?usp=drive_link)
+
+Tại prj CardGameServer chỉ cần thêm mysql-connector.jar
 
 Tại CardGameServer/src/connection/DatabaseConnection.java sửa lại username và password của MySQL
 
