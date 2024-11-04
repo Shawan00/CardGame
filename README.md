@@ -4,7 +4,7 @@ Tại CardGameServer/src/connection/DatabaseConnection.java sửa lại username
 
 Chạy lệnh trong mysql
 ```sql
-CREATE DATABASE btlltm DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;
+CREATE DATABASE cardgame;
 USE btlltm;
 
 CREATE TABLE users (
